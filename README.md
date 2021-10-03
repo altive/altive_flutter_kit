@@ -16,7 +16,11 @@ know whether this package might be useful for them.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+* Standard linting rule collection by Altive.
+* Standard theme files by Altive.
+  * with theme_selector_provider
+* Common Riverpod providers.
+  * shared_preferences_provider
 
 ## Getting started
 
@@ -25,12 +29,19 @@ start using the package.
 
 ## Usage
 
+```analysis_options.dart
+include: package:altive_flutter_kit/analysis_options.yaml
+```
+
+```main.dart
+return MaterialApp(
+  theme: altiveLightThemeData,
+  darkTheme: altiveDarkThemeData,
+)
+```
+
 TODO: Include short and useful examples for package users. Add longer examples
 to `/example` folder. 
-
-```dart
-const like = 'sample';
-```
 
 ## Additional information
 

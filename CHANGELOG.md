@@ -1,3 +1,6 @@
-## 0.0.1
+## 1.0.0
 
-* TODO: Describe initial release.
+* export
+  * analysis_options.yaml
+  * light_theme_data.dart
+  * dark_theme_data.dart
