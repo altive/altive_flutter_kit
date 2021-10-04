@@ -1,3 +1,7 @@
+## 1.1.1
+
+* Add Enum extensions export
+
 ## 1.1.0
 
 * Add Enum extensions
