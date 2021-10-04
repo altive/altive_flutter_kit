@@ -21,6 +21,7 @@ know whether this package might be useful for them.
   * with theme_selector_provider
 * Common Riverpod providers.
   * shared_preferences_provider
+* Common extensions.
 
 ## Getting started
 
