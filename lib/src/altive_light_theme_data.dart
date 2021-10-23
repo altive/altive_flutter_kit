@@ -8,11 +8,8 @@ ThemeData get altiveLightThemeData {
     colorScheme: const ColorScheme.light(
       primary: primaryColor,
       primaryVariant: Colors.amber,
-      onPrimary: Colors.white,
       secondary: Colors.yellow,
       secondaryVariant: Colors.yellowAccent,
-      onSecondary: Colors.black,
-      background: Colors.white,
     ),
     primaryColor: primaryColor,
     primaryColorLight: Colors.grey[200],
